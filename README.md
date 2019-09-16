@@ -1,0 +1,2 @@
+# spamcallz
+Spam
