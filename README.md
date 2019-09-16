@@ -9,7 +9,7 @@ $ cd spamcallz
 $ python3 SpamCallz.py
 ```
 ````
-usage python3 Not python2
+** usage python3 Not python2 **
 ````
 
 ## In Tools
